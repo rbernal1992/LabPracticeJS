@@ -1,0 +1,2 @@
+# LabPracticeJS
+LabPractice Javascript
